@@ -1,5 +1,3 @@
-# Взяв з інтернету 
-
 import math
 
 def angle_with_x_axis(x1, y1, x2, y2):

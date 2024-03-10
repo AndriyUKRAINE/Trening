@@ -1,4 +1,3 @@
-# Взяв з інтернету
 import numpy as np
 
 def merge_arrays(*arrays):

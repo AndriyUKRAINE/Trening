@@ -1,5 +1,3 @@
-# Взяв з інтернету
-
 def fibonacci_number(indexFib):
     if indexFib <= 0:
         return "Index <= 0"
